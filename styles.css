@@ -60,7 +60,7 @@ body {
 }
 
 .footer:hover,
-.footer:active 
+.footer:active, 
 .insta-photo:hover,
 .insta-photo:active {
   color: rgb(235, 163, 163);
